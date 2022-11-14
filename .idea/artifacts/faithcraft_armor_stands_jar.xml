@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="faithcraft-armor-stands:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/faithcraft_armor_stands_jar</output-path>
+    <root id="archive" name="faithcraft-armor-stands.jar">
+      <element id="module-output" name="faithcraft-armor-stands" />
+    </root>
+  </artifact>
+</component>
