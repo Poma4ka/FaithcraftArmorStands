@@ -15,6 +15,4 @@ public class Main extends JavaPlugin {
         Main.instance = this;
         Bukkit.getServer().getPluginManager().registerEvents(new EventListener(),this);
     }
-
-
 }

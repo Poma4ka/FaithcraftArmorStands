@@ -34,7 +34,5 @@ public class Stand {
             stand.setMetadata("pose",new FixedMetadataValue(Main.getInstance(),1));
             return 1;
         }
-
     }
-
 }
